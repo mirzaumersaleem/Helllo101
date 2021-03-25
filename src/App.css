@@ -13,6 +13,17 @@
   }
 }
 
+.img-wrapper img {
+  width: 100px;
+}
+.item {
+  float: left;
+}
+.cart-icon-wrapper {
+  width: 20px ;
+  position: right ;
+  top: auto ;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
